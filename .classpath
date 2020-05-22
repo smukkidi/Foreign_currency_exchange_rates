@@ -23,6 +23,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/reddys32/AppData/Local/Microsoft/Windows/INetCache/IE/K2D27D9Z/java-json[1].jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
