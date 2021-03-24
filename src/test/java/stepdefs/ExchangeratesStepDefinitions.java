@@ -34,6 +34,7 @@ public class ExchangeratesStepDefinitions {
 		stepData.log.info("Exchange Rates.");
 		stepData.response = stepData.request.when().get(stepData.ENDPOINT_GET_EXCHANGE_RATES);
 		System.out.println("response: " +stepData.response.prettyPrint());
+		System.out.println("Test Commit");
 		stepData.log.info("response: " +stepData.response.prettyPrint());
 	}
 
